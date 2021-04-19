@@ -1,0 +1,53 @@
+.header{
+    background: url("../Img//bg.png")center/cover;
+    height: 80vh;
+    background-color:rgba(0, 0, 0, 0.829) ;
+    box-shadow: 0 0 20px black;
+}
+.header h1{
+    font-size: 45px;
+    letter-spacing: 0px;
+    line-height: 40px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top:6%;
+    padding-bottom: 2%;
+}
+.header h2{
+    font-size: 25px;
+    letter-spacing: 0px;
+    line-height: 40px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top:2%;
+    padding-bottom: 2%;
+    background-color:rgba(0, 0, 0, 0.438) ;
+    width: 20%;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+.header h2:hover{
+    background-color:#fff ;
+    color: black;
+    transition: .7s;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header h3{
+    font-size: 35px;
+    line-height: 40px;
+    background-color:#6a383362 ;
+    width: 80%;
+    margin: 0 auto;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px;
+    text-align: center;
+    padding:15px;
+}

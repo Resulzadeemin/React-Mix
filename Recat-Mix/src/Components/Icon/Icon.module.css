@@ -1,0 +1,16 @@
+.icons{
+    text-align: center;
+    padding-top:3% ;
+}
+.ic1,.ic2,.ic3{
+    font-size: 50px;
+    color: #fff;
+    background-color:rgba(0, 0, 0, 0.397) ;
+    border-radius: 30px;
+    padding: 10px;
+}
+.ic1:hover,.ic2:hover,.ic3:hover{
+    transition: .7s;
+    background-color:white ;
+    color: black;
+}
